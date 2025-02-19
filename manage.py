@@ -5,6 +5,7 @@ import sys
 
 
 def main():
+    print "gogo"
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
